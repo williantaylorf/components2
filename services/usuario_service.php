@@ -1,14 +1,14 @@
 <?php
 
-function usuarioService(){
-    echo "7. Brasil entra em campo contra a Argentina pela final da copa.<br>";
-    
+function usuarioService()
+{
+    echo "7. Real Playboys entra em campo contra os Pestissimos pela final da copa.<br>";
+
     return [
-        "Gui Saymon",
-        "Victor Craque Hugo",
-        "Gualbas Fenômeno",
-        "Miggas Pro",
-        "Lolo Ferreira",
-        "Dede Rafael"
+        "Willian Matador",
+        "Bernardo Gol Contra",
+        "Daniel Dribles",
+        "Pedro CPT",
+        "Arthur Egoista"
     ];
 }

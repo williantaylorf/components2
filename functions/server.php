@@ -2,6 +2,6 @@
 
 function servidorHttp()
 {
-    echo "1. Ancelotti está convocando a seleção.<br>";
+    echo "1. Time do Real Playboys se reune.<br>";
     router();
 }
